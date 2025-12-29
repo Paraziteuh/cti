@@ -1,3 +1,4 @@
 ## Settings / API keys / 
-VT_API_KEY = "ef8f91ea38f1cb5f9a9b27878c77b603f366e64d64e0d2538fe3dc2ee73eea11"
-OTX_API_KEY = "ea12b5f916dfcf0a81698b4c046643efe152c3c7c15f08d874a1bf3034dbd5e4"
+VT_API_KEY = ""
+OTX_API_KEY = ""
+
